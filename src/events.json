@@ -1,0 +1,56 @@
+[
+  {
+    "id": 4422829,
+    "artist": "Backstreet Boys",
+    "city": "Camden",
+    "price": 23
+  },
+  {
+    "id": 4422826,
+    "artist": "Backstreet Boys",
+    "city": "Hartford",
+    "price": 20
+  },
+  {
+    "id": 150029205,
+    "artist": "Backstreet Boys",
+    "city": "Bethel",
+    "price": 69
+  },
+  {
+    "id": 8621837,
+    "artist": "Justin Beiber",
+    "city": "Camden",
+    "price": 23
+  },
+  {
+    "id": 8621843,
+    "artist": "Justin Beiber",
+    "city": "Hartford",
+    "price": 20
+  },
+  {
+    "id": 8621842,
+    "artist": "Justin Beiber",
+    "city": "Bethel",
+    "price": 69
+  },
+  {
+    "id": 150100779,
+    "artist": "Chris Brown & Lil Baby",
+    "city": "West Palm Beach",
+    "price": 19
+  },
+  {
+    "id": 150096789,
+    "artist": "Chris Brown & Lil Baby",
+    "city": "Tampa",
+    "price": 28
+  },
+  {
+    "id": 10380132,
+    "artist": "Daddy Yankee",
+    "city": "Inglewood",
+    "price": 23
+  }
+]
