@@ -53,6 +53,7 @@ export default function App() {
         name="priceSign"
         id="priceSign"
         onChange={(e) => setPriceSign(e.target.value)}
+        default=
       >
         <option value="equal">Equal to</option>
         <option value="less">Less Than</option>
