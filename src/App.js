@@ -32,7 +32,6 @@ export default function App() {
   const handleClear = () => {
     setCityText("");
     setPrice(0);
-    setPriceSign("equal");
     setFilteredEvents(eventsData);
     priceRef.current.value = 0;
     cityRef.current.value = "";
